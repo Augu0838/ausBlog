@@ -1,0 +1,17 @@
+# Run project:
+
+To run the project use cmd:
+>$ flask --debug  run
+
+# Turn on virtual env
+To turn on "virt" use cmd:
+>$ source virt/bin/activate
+
+# Cmds for initializing git for version control
+Type each cmd with needed modifications:
+>$ git config --global user.name "Auguste"
+>$ git config --global user.email "augustebille@live.dk"
+>$ git config --global push.default matching
+>$ git config --global alias.co checkout
+>$ git init
+>$ git branch -m development
